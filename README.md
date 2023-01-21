@@ -164,10 +164,14 @@ h1{
 ```
 
 ## OUTPUT:
-![OUTPUT](./out.png)
 
-## HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![image](https://user-images.githubusercontent.com/119561118/213873846-edbdc07a-102f-4c4c-8310-9a09f0364888.png)
+
+
+## HTML VALIDATOR:
+
+![image](https://user-images.githubusercontent.com/119561118/213873918-23c7ee7e-1515-42f1-a61d-75ce40ad345f.png)
+
 
 ## Result:
 
